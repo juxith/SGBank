@@ -1,0 +1,17 @@
+C:\PracticeProblems\SGBank\SGBank.UI\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\PracticeProblems\SGBank\SGBank.UI\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\PracticeProblems\SGBank\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+C:\PracticeProblems\SGBank\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.csproj.CoreCompileInputs.cache
+C:\PracticeProblems\SGBank\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\PracticeProblems\SGBank\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.pdb
+C:\Repos\dotnet-judy-thao\SGBank\SGBank.UI\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Repos\dotnet-judy-thao\SGBank\SGBank.UI\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Repos\dotnet-judy-thao\SGBank\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+C:\Repos\dotnet-judy-thao\SGBank\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.csproj.CoreCompileInputs.cache
+C:\Repos\dotnet-judy-thao\SGBank\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Repos\dotnet-judy-thao\SGBank\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.pdb
+C:\Repos\dotnet-judy-thao\SGBankNew\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Repos\dotnet-judy-thao\SGBankNew\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Repos\dotnet-judy-thao\SGBankNew\SGBank.Models\obj\Debug\SGBank.Models.csproj.CoreCompileInputs.cache
+C:\Repos\dotnet-judy-thao\SGBankNew\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Repos\dotnet-judy-thao\SGBankNew\SGBank.Models\obj\Debug\SGBank.Models.pdb
